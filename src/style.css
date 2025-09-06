@@ -57,18 +57,18 @@ a {
   display: flex;
 }
 
-.current-temperature-icon {
-  font-size: 44px;
-  margin-top: 22px;
+.weather-icon {
+  width: 88px;
+  height: 88px;
 }
 .current-temperature {
   font-size: 88px;
   font-weight: bold;
-  margin-left: 10px;
+  line-height: 88px;
 }
 .current-temperature-unit {
   font-size: 28px;
-  margin-top: 16px;
+  margin-top: 6px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
